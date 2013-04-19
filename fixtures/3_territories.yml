@@ -1,0 +1,11 @@
+---
+world:
+  piedmont:
+    - tuscany
+  tuscany:
+    - rome
+    - piedmont
+  rome:
+    - tuscany
+
+
