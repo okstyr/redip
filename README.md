@@ -1,0 +1,4 @@
+redip
+=====
+
+diplomacy rules engine
